@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: gray;
+    font-size: 48px;
+    text-shadow: 5px 5px 10px red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav:nth-of-type(1) p{
+    text-indent: 30px;
+    word-spacing: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+main:nth-of-type(1) p{
+    word-spacing: 2px;
+    text-indent: 40px;
+}
+
+h2{
+    text-shadow: 5px 5px 3px rgb(133, 133, 148);
+    letter-spacing: 5px;
+}
+
+section:nth-of-type(1) p{
+    line-height: 20px;
+    background-color: rgb(197, 180, 180);
+}
+
+aside:nth-of-type(1) p{
+    line-height: 40px;
+    background-color: darkgray;
+}
